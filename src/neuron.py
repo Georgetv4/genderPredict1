@@ -24,3 +24,4 @@ class Neuron:
     def __str__(self):
         weights_to_str = list(map(str, self.weights))
         return ",".join(weights_to_str)
+

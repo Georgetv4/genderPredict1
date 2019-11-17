@@ -41,3 +41,4 @@ class NeuralNet:
 
     def load_model(self):
         pass
+

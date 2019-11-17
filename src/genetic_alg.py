@@ -49,3 +49,4 @@ class GeneticAlg:
 
 
 GeneticAlg().evolve()
+
